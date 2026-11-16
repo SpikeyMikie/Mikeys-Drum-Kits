@@ -128,7 +128,6 @@ main {
 /* Navigation */
 /* --------------------------------------------------------------- */
 
-
 .nav-menu {
   display: flex;
   flex-direction: row;
@@ -204,7 +203,7 @@ main {
 
 .table-thumb {
   width: 300px;
-  max-width: 100%;
+  max-width: 400px;
   height: auto;
   display: block;
   flex: 1 1 300px;
@@ -221,13 +220,13 @@ main {
   display: block;
 }
 
-
 /* --------------------------------------------------------------- */
 /* Tables */
 /* --------------------------------------------------------------- */
 
 .data-table {
   width: 95%;
+  max-width: 1150px;
   table-layout: fixed;
 }
 
